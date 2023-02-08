@@ -20,6 +20,8 @@ export default {
 <style>
   .image{
     width: 90%;
+    max-width: 840px;
+    max-height: 480px;
   }
 
   @media screen and (max-width:690px) {
